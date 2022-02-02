@@ -15,7 +15,7 @@ Algoritmo qeu treina um modelo capaz de classificar imagens de cães e gatos usn
 #### Figura 1 - MSE Treinamento x MSE Validação
 ![Image](plots/mse.png)
 
-#### Figura 1 - Acurácia Treinamento x Acurácia Validação
+#### Figura 2 - Acurácia Treinamento x Acurácia Validação
 ![Image](plots/acc.png)
 
 
