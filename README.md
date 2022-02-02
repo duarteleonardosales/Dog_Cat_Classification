@@ -8,7 +8,7 @@
 
 ## 📝 Descrição
 
-Algoritmo qeu treina um modelo capaz de classificar imagens de cães e gatos usndo o **Oxford-IIIT Pet Dataset**
+Algoritmo que treina um modelo para classificação de imagens de cães e gatos usando o **Oxford-IIIT Pet Dataset**
 
 ## 📈 Gráficos de Treinamento e Validação do modelo
 
