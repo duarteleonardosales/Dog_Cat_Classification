@@ -4,7 +4,7 @@
 
 ## 💻 Código completo no Colab
 
-[Abrir no Colab](https://colab.research.google.com/drive/1H5VC3OMgPVSrZcWJ1ZHbrrNjtDCjuN6P?usp=sharing)
+[Abrir no Colab](https://colab.research.google.com/drive/1o3aOj2U59oey3KKT9nacyoFoHTI4tLjV?usp=sharing)
 
 ## 📝 Descrição
 
